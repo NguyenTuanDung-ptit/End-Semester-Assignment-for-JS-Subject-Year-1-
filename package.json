@@ -1,0 +1,21 @@
+{
+  "name": "end-semester-assignment-for-js-subject-year-1-",
+  "version": "1.0.0",
+  "description": "This repository is my final exam for my JS subject in my first year of college. In this repo, I use HTML, CSS and JS (may be I will add more tool and framework later) to create a static website - a FE simulating a tech's shop website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenTuanDung-ptit/End-Semester-Assignment-for-JS-Subject-Year-1-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NguyenTuanDung-ptit/End-Semester-Assignment-for-JS-Subject-Year-1-/issues"
+  },
+  "homepage": "https://github.com/NguyenTuanDung-ptit/End-Semester-Assignment-for-JS-Subject-Year-1-#readme"
+}
