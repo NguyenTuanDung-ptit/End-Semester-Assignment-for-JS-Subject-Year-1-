@@ -31,13 +31,10 @@ a {
     padding: 0 20px;
 }
 
-.logo-box a {
+.logo-box {
     display: flex; 
     align-items: center; 
-    gap: 10px; 
-    font-size: 24px;
-    font-weight: bold;
-    letter-spacing: 2px;
+    gap: 8px; 
 }
 
 .site-logo {
