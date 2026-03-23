@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+}
+
+.left-group, .right-group {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.selector select {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.shipping-info {
+    color: #555;
+    font-style: italic;
+}
+
+.icon {
+    width: 16px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.main_icon{
+    width: 10%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.logo-name{
+    font-size: 50px;
+}
+.middle_section{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+}
+.right-side{
+    display: flex;
+    gap: 30px;
+}
